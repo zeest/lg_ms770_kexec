@@ -1,0 +1,8 @@
+*.o
+*.cmd
+.*.cmd
+.tmp_versions/
+Module.symvers
+kexec_load.ko
+kexec_load.mod.c
+modules.order
